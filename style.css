@@ -1,1 +1,15 @@
-p { background-color: red; }
+p, h2, h3 {
+    color: rgb(187, 37, 37);
+  }
+
+h1 {
+    color: blue;
+  }
+
+li {
+    color: rgb(255, 106, 155)
+}
+
+.punainen {
+    color: red
+}
