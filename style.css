@@ -1,5 +1,5 @@
 p, h2, h3 {
-    color: rgb(187, 37, 37);
+    color: #555;
   }
 
 h1 {
@@ -7,9 +7,18 @@ h1 {
   }
 
 li {
-    color: rgb(255, 106, 155)
+    color: #333;
 }
 
 .punainen {
     color: red
 }
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+  }
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+  }
