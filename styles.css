@@ -1,23 +1,44 @@
 .first-box-container {
     width: 200px;
-    height: 100px;
+    height: 150px;
     background-color: red;
+    border-style: solid;
+    border-width: 10px;
+    border-color: green;
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+    line-height: 1.5;    
   }
   
   .second-box-container {
     width: 200px;
-    height: 100px;
+    height: 150px;
     background-color: yellow;
     position:relative;
     left: 250px;
-    top: -116px;
+    top: -166px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+    line-height: 80px;
   }
   
   .third-box-container {
     width: 200px;
-    height: 100px;
+    height: 150px;
     background-color: green;
     position:relative;
     left: 500px;
-    top: -232px;
+    top: -332px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: yellow;
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+    line-height: 80px;
   }
